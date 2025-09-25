@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "files": [
+    {
+      "id": "PRK|ESP32|firmware",
+      "model_name": "PRK",
+      "hardware_name": "ESP32",
+      "file_type": "firmware",
+      "file_version": "0.1.0",
+      "file_url": "",
+      "sha256": "",
+      "release_date": "2025-09-25"
+    },
+    {
+      "id": "PRK|MSPM0G3507|firmware",
+      "model_name": "PRK",
+      "hardware_name": "MSPM0G3507",
+      "file_type": "firmware",
+      "file_version": "0.1.0",
+      "file_url": "",
+      "sha256": "",
+      "release_date": "2025-09-25"
+    }
+  ]
+}
