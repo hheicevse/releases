@@ -23,7 +23,7 @@ firmware and system images for OTA updates
       "file_version": "0.1.0",
       "file_url": "",
       "sha256": "",
-      "release_date": "2025-09-25"
+      "release_datetime": "2025-09-25T03:02:08.348Z"
     },
     {
       "id": "PRK|MSPM0G3507|firmware",
@@ -33,7 +33,7 @@ firmware and system images for OTA updates
       "file_version": "0.1.0",
       "file_url": "",
       "sha256": "",
-      "release_date": "2025-09-25"
+      "release_datetime": "2025-09-25T03:02:08.348Z"
     }
   ]
 }
@@ -57,14 +57,14 @@ firmware and system images for OTA updates
 | **file_version**   | 韌體版本號，建議採用 [Semantic Versioning](https://semver.org/lang/zh-TW/) 格式    |
 | **file_url**       | 韌體檔案下載位置（HTTP/HTTPS URL）                                                 |
 | **sha256**         | 檔案的 SHA256 雜湊值，用於完整性驗證，防止檔案被竄改                                 |
-| **release_date**   | 韌體發布日期（格式：YYYY-MM-DD），跟韌體上傳日期不同                                  |
+| **release_datetime**   | 韌體發布日期（用 `new Date().toISOString()` 生成），跟韌體上傳日期不同            |
 
 
 ## 使用方式
 
 1. 設備在啟動或定期檢查更新時，先下載 `manifest.json`。
 2. 比對設備自身的 `model_name` 與 `hardware_name`，找到對應的項目。
-3. 檢查 `file_version` 是否較新。
+3. 檢查 `release_datetime` 是否較新 (或檢查 `file_version` 是否較新)。
 4. 下載 `file_url` 指向的韌體檔案。
 5. 驗證下載後的檔案 SHA256 是否與 `sha256` 欄位一致。
 6. 通過驗證後，執行韌體更新。
