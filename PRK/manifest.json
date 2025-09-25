@@ -7,7 +7,7 @@
       "hardware_name": "ESP32",
       "file_type": "firmware",
       "file_version": "0.1.0",
-      "file_url": "",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/ESP32/20250924_02/firmware.bin",
       "sha256": "",
       "release_date": "2025-09-25"
     },
@@ -17,7 +17,7 @@
       "hardware_name": "MSPM0G3507",
       "file_type": "firmware",
       "file_version": "0.1.0",
-      "file_url": "",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/MSPM0G3507/20240915_01/Dan_TI_3507.txt",
       "sha256": "",
       "release_date": "2025-09-25"
     }
