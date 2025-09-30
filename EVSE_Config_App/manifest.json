@@ -6,10 +6,10 @@
       "model_name": "EVSE_Config_App",
       "hardware_name": "Android",
       "file_type": "apk",
-      "file_version": "0.4.2",
-      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/EVSE_Config_App/Android/20250930_01/app-debug.apk",
+      "file_version": "0.4.3",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/EVSE_Config_App/Android/20250930_02/app-debug.apk",
       "sha256": "",
-      "release_datetime": "2025-09-30T04:56:43.534Z"
+      "release_datetime": "2025-09-30T08:16:02.884Z"
     }
   ]
 }
