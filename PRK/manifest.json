@@ -16,10 +16,10 @@
       "model_name": "PRK",
       "hardware_name": "MSPM0G3507",
       "file_type": "firmware",
-      "file_version": "2.0.3",
-      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/MSPM0G3507/20251001_01/POC3.txt",
+      "file_version": "2.0.4",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/MSPM0G3507/20251002_01/POC3.txt",
       "sha256": "",
-      "release_datetime": "2025-10-01T09:12:55.547Z"
+      "release_datetime": "2025-10-02T01:33:11.666Z"
     }
   ]
 }
