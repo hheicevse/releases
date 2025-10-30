@@ -6,20 +6,20 @@
       "model_name": "PRK",
       "hardware_name": "ESP32",
       "file_type": "firmware",
-      "file_version": "1.0.1",
-      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/ESP32/20251015_01/firmware.bin",
+      "file_version": "1.0.2",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/ESP32/20251030_01/firmware.bin",
       "sha256": "",
-      "release_datetime": "2025-10-15T08:44:00.333Z"
+      "release_datetime": "2025-10-30T07:33:01.873Z"
     },
     {
       "id": "PRK|MSPM0G3507|firmware",
       "model_name": "PRK",
       "hardware_name": "MSPM0G3507",
       "file_type": "firmware",
-      "file_version": "2.0.8",
-      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/MSPM0G3507/20251017_01/POC3.txt",
+      "file_version": "2.1.0",
+      "file_url": "https://github.com/hheicevse/releases/raw/refs/heads/main/PRK/MSPM0G3507/20251030_01/POC3.txt",
       "sha256": "",
-      "release_datetime": "2025-10-17T05:54:15.658Z"
+      "release_datetime": "2025-10-30T07:33:01.873Z"
     }
   ]
 }
